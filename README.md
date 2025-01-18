@@ -1,7 +1,8 @@
 # Flappy Bird Game Clone
 
 ![flappy-bird-clone-sample](assets/screenshot.png)
-All the credit goes to Kenny Yip Coding on Youtube for providing the awesome tutorial to building this project!🌟
+
+- All the credit goes to Kenny Yip Coding on Youtube for providing the awesome tutorial to building this project!🌟
 
 Coding Tutorial: https://youtu.be/jj5ADM2uywg
 
