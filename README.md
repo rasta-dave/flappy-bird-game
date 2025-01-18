@@ -1,11 +1,38 @@
-# [Flappy Bird](https://youtu.be/jj5ADM2uywg)
-- Coding Tutorial: https://youtu.be/jj5ADM2uywg
-- Demo: https://imkennyyip.github.io/flappy-bird/
-- Learn how to add music/sounds: https://youtu.be/UQA5jG-yh78
-- Learn how to add animations: https://youtu.be/94Vw8teCElM
+# Flappy Bird Game Clone
 
-In this tutorial, you will learn to create the flappy bird game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
+![flappy-bird-clone-sample](assets/screenshot.png)
+All the credit goes to Kenny Yip Coding on Youtube for providing the awesome tutorial to building this project!🌟
 
-Throughout the tutorial, you will learn how to create the game loop, add images onto the canvas, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
+Coding Tutorial: https://youtu.be/jj5ADM2uywg
 
-![flappy-bird-sample](https://user-images.githubusercontent.com/78777681/219966636-72584cb3-d471-41c0-872f-62c230dccc47.png)
+A simple browser-based Flappy Bird clone made with JavaScript.
+
+## What I Learned
+
+- Basic Game Development
+
+- How to use HTML Canvas for drawing games
+  -Creating a game loop that updates continuously
+  -Loading and displaying images in a game
+
+## Game Mechanics
+
+- Adding gravity to make the bird fall
+- Creating moving pipes
+- Detecting when the bird hits something
+- Keeping track of the score
+
+## JavaScript Skills
+
+- Working with arrays for the pipes
+- Using objects to organize game data
+- Handling keyboard inputs
+  Basic collision detection
+
+## Game Features
+
+- Bird that responds to gravity
+- Randomly placed pipes
+- Score counter
+- Game over screen
+- Easy restart option
